@@ -5,7 +5,7 @@ A responsive project management app with five screens: Dashboard, Projects, Proj
 ## Setup
 
 ```bash
-npm install        # install dependencies (creates/uses package-lock.json)
+npm install        # install dependencie
 npm run dev        # start dev server (http://localhost:8080)
 npm run test       # run unit tests (Vitest)
 npm run build      # production build

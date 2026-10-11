@@ -6,10 +6,12 @@ yarn-debug.log*
 
 
 node_modules
-dis
+dist
+
 
 .tanstack/**
 .nitro
+*.local
 
 # Editor directories and files
 .vscode/*

@@ -77,7 +77,7 @@ export function Dashboard() {
         ))}
       </div>
 
-      <div className="mt-6 grid gap-6 lg:grid-cols-3">
+      <div className="mt-6 grid min-w-0 grid-cols-1 gap-4 sm:gap-6 lg:grid-cols-3">
         <Panel
           title="Project progress"
           className="lg:col-span-2"
